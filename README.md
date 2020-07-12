@@ -9,6 +9,6 @@ Technology stracks :
 
 Developer:
 - Bagas Kurniajati
-- [Derby Prayogo S] (https://github.com/derbyps)
+- [Derby Prayogo S](https://github.com/derbyps)
 
 link: http://bagasderby.pythonanywhere.com/
